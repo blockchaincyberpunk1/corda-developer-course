@@ -1,0 +1,52 @@
+Corda Enterprise Deployment
+
+Objective: Investigate the deployment of Corda Enterprise for enterprise-scale blockchain applications.
+
+Assignment Description:
+
+In this assignment, students will explore the deployment architecture of Corda Enterprise, with a focus on setting up secure and highly available networks. Corda Enterprise offers specialized deployment options and components that cater to the demands of enterprise-scale blockchain applications. This assignment aims to provide students with insights into how Corda Enterprise can be effectively deployed for robust and secure enterprise solutions.
+
+Instructions:
+
+Introduction to Corda Enterprise Deployment:
+
+Begin with an introduction to the deployment aspects of Corda Enterprise and its significance for enterprise-grade blockchain solutions.
+Explain the objectives of the assignment, which is to understand and document the deployment architecture and best practices.
+Research Corda Enterprise Deployment:
+
+Instruct students to research and gather information about the deployment architecture of Corda Enterprise.
+Encourage students to refer to official Corda Enterprise documentation and resources.
+Components of Corda Enterprise Deployment:
+
+Describe the key components involved in the deployment of Corda Enterprise. Focus on elements such as Corda Network Manager and Corda Firewall.
+Explain the role of each component in ensuring a secure and highly available Corda Enterprise network.
+Secure Network Setup:
+
+Provide guidelines and best practices for setting up a secure Corda Enterprise network. Discuss aspects like network segmentation, access control, and encryption.
+Illustrate how Corda Firewall contributes to network security.
+High Availability Considerations:
+
+Explain the importance of high availability in enterprise deployments and how Corda Enterprise achieves this.
+Describe strategies for redundancy, load balancing, and failover mechanisms in Corda Enterprise.
+Network Manager Configuration:
+
+Walk students through the configuration of Corda Network Manager, emphasizing its role in network governance and administration.
+Provide examples of scenarios where Corda Network Manager simplifies Corda network management.
+Deployment Guidelines:
+
+Summarize the deployment guidelines for Corda Enterprise, including best practices for installation, configuration, and maintenance.
+Highlight any specific considerations or challenges that may arise in large-scale deployments.
+Case Studies (Optional):
+
+Optionally, students can research and present case studies of real-world enterprises that have successfully deployed Corda Enterprise, emphasizing deployment challenges and solutions.
+Submission:
+
+Students should submit a report or presentation summarizing their findings and deployment guidelines.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the deployment architecture description.
+Clarity and effectiveness of the guidelines for secure and highly available network setup.
+Quality of insights into Corda Network Manager's role and benefits.
+Overall presentation quality and adherence to submission guidelines.

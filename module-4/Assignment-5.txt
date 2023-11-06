@@ -1,0 +1,40 @@
+Corda Contract Security
+
+Objective: Delve into the security aspects of Corda contract development.
+
+Assignment Description:
+
+In this assignment, students will focus on the critical topic of Corda contract security. The objective is for students to identify potential security vulnerabilities and threats associated with Corda contract development and propose best practices and countermeasures to mitigate these risks. Students will provide recommendations for securing Corda contracts in a real-world Corda application.
+
+Instructions:
+
+Introduction to Corda Contract Security:
+
+Provide students with an introduction to the importance of Corda contract security. Explain why security is a critical consideration in Corda contract development.
+Identifying Security Vulnerabilities:
+
+Instruct students to identify and describe potential security vulnerabilities and threats that can be associated with Corda contract development. These may include issues related to contract code, data privacy, transaction security, and more.
+Security Best Practices:
+
+Ask students to propose security best practices and countermeasures to mitigate the identified risks. These best practices should cover areas such as contract code quality, access control, data encryption, and secure transaction handling.
+Real-World Recommendations:
+
+Encourage students to provide recommendations for securing Corda contracts in a real-world Corda application. They should consider the specific use cases and industries where Corda contracts are deployed.
+Documentation and Reporting:
+
+Instruct students to document their findings, security best practices, and recommendations in a report format. This report should be well-structured and easy to understand.
+Discussion:
+
+Facilitate a class discussion where students can share their insights into Corda contract security and the best practices they have proposed. Encourage discussions on real-world scenarios where security is a critical concern.
+Submission:
+
+Students should submit their security report, which includes their findings, best practices, and recommendations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear identification and description of potential security vulnerabilities and threats in Corda contract development.
+Comprehensive security best practices and countermeasures proposed to mitigate risks.
+Well-documented recommendations for securing Corda contracts in real-world applications.
+Quality of documentation and reporting.
+Overall quality of the assignment and adherence to submission guidelines.

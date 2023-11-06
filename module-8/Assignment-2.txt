@@ -1,0 +1,45 @@
+Corda Community Forum Engagement
+
+Objective: Promote engagement with the Corda community forums.
+
+Assignment Description:
+
+In this assignment, students will actively participate in the Corda community forums to engage in discussions related to Corda development or deployment. The objective is to encourage students to seek solutions, share knowledge, and learn from their peers and the Corda community. Through this assignment, students will recognize the value of community collaboration in resolving challenges and advancing their understanding of Corda.
+
+Instructions:
+
+Introduction to Corda Community Forums:
+
+Begin with an introduction to the Corda community forums, emphasizing their role in knowledge sharing, troubleshooting, and collaboration.
+Explain the importance of active participation in community discussions.
+Select a Relevant Topic:
+
+Instruct students to browse the Corda community forums and select a topic or issue that is relevant to Corda development or deployment.
+Topics may include technical challenges, best practices, deployment strategies, or use cases.
+Engage in the Discussion:
+
+Students should actively engage in the selected forum discussion.
+Encourage them to provide constructive and insightful comments, suggestions, or solutions to address the topic's challenges or questions.
+Documentation of Engagement:
+
+Ask students to document their participation in the forum discussion.
+They should record their comments, responses, or contributions to the discussion.
+Reflect on the Experience:
+
+Require students to write a reflection on their engagement in the Corda community forum.
+Reflect on the importance of collaboration and knowledge sharing within the Corda community.
+Benefits of Community Engagement:
+
+Instruct students to discuss the benefits they gained from participating in the community forum discussion.
+Highlight how collaborating with the community enhanced their understanding of Corda.
+Submission:
+
+Students should submit a document that includes their forum engagement documentation and reflection.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The relevance and quality of the student's engagement in the Corda community forum discussion.
+The depth and thoughtfulness of the reflection on the experience.
+The articulation of the benefits gained from community collaboration.
+The completeness and organization of the submitted document.

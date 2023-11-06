@@ -1,0 +1,46 @@
+Exploring Distributed Ledger Technology (DLT)
+
+Objective: Familiarize students with the fundamental concepts of distributed ledger technology (DLT) and its relevance to Corda.
+
+Assignment Description:
+
+In this assignment, students will delve into the foundational concepts of distributed ledger technology (DLT) and understand its importance in the context of Corda. The objective is to equip students with a clear understanding of DLT, its distinctions from traditional databases, and the various consensus mechanisms that underpin DLT systems, including their impact on trust and security.
+
+Instructions:
+
+Introduction to DLT:
+
+Provide students with an introduction to distributed ledger technology (DLT) as a foundational concept in blockchain and its relevance to Corda.
+Differences from Traditional Databases:
+
+Instruct students to research and explain how DLT differs from traditional databases. They should highlight key distinctions, such as decentralization, immutability, and consensus mechanisms.
+Consensus Mechanisms in DLT:
+
+Explore various consensus mechanisms used in DLT systems (e.g., Proof of Work, Proof of Stake, Raft, BFT) and their implications for trust and security.
+Ask students to select at least one consensus mechanism and provide a detailed explanation of how it works, including its advantages and limitations.
+Comparison of Consensus Mechanisms:
+
+Encourage students to compare and contrast different consensus mechanisms, discussing factors such as energy efficiency, scalability, and security.
+Discuss the relevance of different consensus mechanisms in various DLT applications.
+Real-World Examples:
+
+Provide real-world examples of DLT applications beyond Corda, such as Bitcoin or Ethereum, to illustrate the practical implications of consensus mechanisms.
+Presentation or Report:
+
+Students can choose to present their findings in a presentation format or compile them into a report. They should use clear explanations, diagrams, and examples to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their research findings, insights on consensus mechanisms, and their impact on DLT.
+Submission:
+
+Students should submit their presentation slides or the report summarizing their research on DLT and consensus mechanisms.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanations regarding DLT's differences from traditional databases.
+Thorough understanding and explanation of at least one consensus mechanism.
+Thoughtful comparison of consensus mechanisms and their practical implications.
+Effective presentation or report that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

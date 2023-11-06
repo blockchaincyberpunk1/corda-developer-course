@@ -1,0 +1,44 @@
+Corda Flow Design
+
+Objective: Explore the design and development of Corda flows.
+
+Assignment Description:
+
+In this assignment, students will delve into the design and development of Corda flows, a crucial aspect of Corda application development. The objective is for students to select a specific business process or use case and design a Corda flow that models the interactions and steps required to complete that process. Students will implement the Corda flow using Kotlin or Java, paying close attention to the sequencing of steps and the exchange of data between nodes. They will share the flow code and provide a step-by-step explanation of how it represents the chosen business process.
+
+Instructions:
+
+Introduction to Corda Flow Design:
+
+Provide students with an introduction to Corda flow design, emphasizing its importance in modeling and executing business processes on the Corda network.
+Select a Business Process:
+
+Instruct students to choose a specific business process or use case that they will model using a Corda flow. This could be related to asset issuance, trade settlement, supply chain tracking, or any other suitable scenario.
+Flow Design:
+
+Ask students to design a Corda flow that represents the interactions and steps required to complete the chosen business process. They should consider the sequencing of steps, the data exchanged between participants, and any necessary validation or verification logic.
+Flow Implementation:
+
+Encourage students to implement the Corda flow using either Kotlin or Java, depending on their familiarity with the programming languages. The implementation should accurately represent the design.
+Step-by-Step Explanation:
+
+Instruct students to provide a detailed, step-by-step explanation of how their Corda flow code models the chosen business process. They should explain the purpose of each step, the data involved, and the interactions between nodes.
+Documentation and Reporting:
+
+Ask students to document their design choices, code implementation, and explanations in a report format. The report should be well-structured and easy to understand.
+Discussion:
+
+Facilitate a class discussion where students can share their Corda flow designs, code, and insights into the modeling of business processes using Corda flows.
+Submission:
+
+Students should submit their Corda flow code and the accompanying report that explains the flow's design and functionality.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear selection of a business process or use case to model using a Corda flow.
+Comprehensive flow design that accurately represents the chosen scenario.
+Correct implementation of the Corda flow using Kotlin or Java.
+Detailed step-by-step explanation of the flow's design and functionality.
+Quality of documentation and reporting.
+Overall quality of the assignment and adherence to submission guidelines.

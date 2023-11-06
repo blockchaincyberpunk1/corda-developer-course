@@ -1,0 +1,40 @@
+Corda Contract Basics
+
+Objective: Introduce students to the fundamentals of writing Corda contracts.
+
+Assignment Description:
+
+In this assignment, students will focus on the basics of writing Corda contracts. The objective is to provide students with hands-on experience in designing and implementing a Corda contract that addresses a simple use case. Students will choose a use case (e.g., asset issuance, tokenization) and write the contract logic using either Kotlin or Java. The assignment requires students to share the contract code and provide explanations for key components of the contract logic.
+
+Instructions:
+
+Introduction to Corda Contracts:
+
+Provide students with an introduction to Corda contracts, emphasizing their role in validating and enforcing the rules of transactions on the Corda blockchain.
+Select a Use Case:
+
+Instruct students to select a simple use case for their Corda contract. Examples include asset issuance, tokenization, or a basic trade scenario. The use case should be manageable within the scope of the assignment.
+Design the Corda Contract:
+
+Ask students to design their Corda contract, including defining the validation rules and constraints that are relevant to the selected use case.
+Contract Implementation:
+
+Guide students through the process of implementing the Corda contract logic using either Kotlin or Java. They should focus on the validation rules and conditions specified in their design.
+Code Explanations:
+
+Instruct students to provide explanations for key components of their Corda contract code. They should explain the purpose and functionality of important sections of the code.
+Testing:
+
+Encourage students to test their Corda contract to ensure that it behaves as expected and enforces the specified rules correctly.
+Code Submission:
+
+Students should submit their Corda contract code along with explanations for key components.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of a Corda contract that addresses the selected use case.
+Clear and well-documented contract code with explanations for key components.
+Effective testing to ensure the contract enforces the specified rules correctly.
+Adherence to coding best practices and guidelines.
+Overall quality of the assignment and adherence to submission guidelines.

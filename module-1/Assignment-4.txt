@@ -1,0 +1,50 @@
+Corda vs. Other Blockchain Platforms
+
+Objective: Compare Corda with other blockchain platforms to understand its unique characteristics.
+
+Assignment Description:
+
+In this assignment, students will perform a comparative analysis between the Corda blockchain platform and two other prominent blockchain platforms of their choice (e.g., Ethereum, Hyperledger Fabric). The objective is to help students gain a deeper understanding of Corda's unique characteristics by contrasting it with other platforms. Students will create a comparative analysis chart that highlights the differences and similarities between Corda and the selected platforms in terms of architecture, consensus mechanisms, and use cases.
+
+Instructions:
+
+Introduction to Comparative Analysis:
+
+Provide students with an introduction to the purpose of comparative analysis in understanding the unique features of blockchain platforms like Corda.
+Select Two Other Blockchain Platforms:
+
+Instruct students to choose at least two other prominent blockchain platforms. They can select platforms like Ethereum, Hyperledger Fabric, Binance Smart Chain, or others based on their interest.
+Research and Gather Information:
+
+Ask students to research and gather information about the selected blockchain platforms. They should focus on the following aspects:
+Architecture: Explain the architectural design of each platform, including the components and layers.
+Consensus Mechanisms: Describe the consensus mechanisms employed by each platform and their implications.
+Use Cases: Identify notable use cases or industries where each platform is commonly applied.
+Create a Comparative Analysis Chart:
+
+Require students to create a comparative analysis chart or table that summarizes the differences and similarities between Corda and the selected platforms. The chart should include columns for architecture, consensus mechanisms, and use cases.
+Highlight Key Distinctions:
+
+Instruct students to highlight key distinctions and unique characteristics of Corda that set it apart from the other platforms.
+Include Real-World Examples:
+
+Encourage students to provide real-world examples or case studies for each platform to illustrate their application in practice.
+Presentation or Report:
+
+Students can choose to present their comparative analysis in a presentation format or compile it into a report. They should use clear tables, bullet points, and explanations to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their comparative analysis findings and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the report containing the comparative analysis.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the comparative analysis chart.
+Quality of explanations regarding architectural differences and consensus mechanisms.
+Inclusion of real-world examples and case studies.
+Effective presentation or report that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

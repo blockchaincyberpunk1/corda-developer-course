@@ -1,0 +1,43 @@
+Corda Contract Integration
+
+Objective: Explore the integration of Corda contracts with other Corda components.
+
+Assignment Description:
+
+In this assignment, students will dive into the integration of Corda contracts with other Corda components, including states, flows, and other contract instances. The objective is for students to understand how Corda contracts are an integral part of Corda applications and how they interact within the Corda ecosystem. Students will investigate various scenarios where Corda contracts are utilized in the context of Corda transactions and state transitions.
+
+Instructions:
+
+Introduction to Corda Contract Integration:
+
+Provide students with an introduction to the concept of integrating Corda contracts with other Corda components. Explain the role of contracts in Corda transactions and state transitions.
+Research and Documentation:
+
+Instruct students to research and document the following:
+How Corda contracts interact with Corda states: Explain how contracts validate the integrity and authenticity of states.
+The role of Corda flows in the execution of contracts: Describe how flows orchestrate transactions that involve contracts.
+Instances of multiple contracts in a single Corda transaction: Explore scenarios where multiple contracts are involved in a single transaction.
+Scenarios and Use Cases:
+
+Ask students to illustrate scenarios or use cases where Corda contracts play a crucial role. These scenarios should showcase how contracts are integrated with other Corda components.
+Diagram or Flowcharts:
+
+Encourage students to create diagrams or flowcharts that visually represent the interaction between Corda contracts, states, flows, and other contract instances in the scenarios they describe.
+Documentation and Reporting:
+
+Instruct students to provide clear documentation of their chosen scenarios, including the role of contracts, states, and flows. They should also explain how multiple contracts can coexist and interact within a single Corda transaction.
+Discussion:
+
+Facilitate a class discussion where students can share their scenarios, diagrams, and insights into the integration of Corda contracts with other Corda components. Encourage discussions on best practices for contract integration.
+Submission:
+
+Students should submit their documentation, diagrams, and reports detailing the scenarios and interactions they have explored.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear and well-documented scenarios that illustrate the integration of Corda contracts with other Corda components.
+Effective use of diagrams or flowcharts to visually represent the interactions.
+Insightful explanations of the role of contracts, states, and flows in Corda transactions and state transitions.
+Quality of documentation and reporting.
+Overall quality of the assignment and adherence to submission guidelines.

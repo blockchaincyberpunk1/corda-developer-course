@@ -1,0 +1,52 @@
+Network Map Services in Corda Networks
+
+Objective: Investigate the role of network map services in Corda networks.
+
+Assignment Description:
+
+In this assignment, students will explore the crucial role of network map services in Corda networks. Network map services play a vital role in facilitating node discovery and communication within the Corda network. This assignment aims to provide students with an in-depth understanding of what network map services are, how they work, and their significance in maintaining an up-to-date network map.
+
+Instructions:
+
+Introduction to Network Map Services:
+
+Begin by explaining the concept of network map services in Corda. Provide an overview of their purpose and relevance in a Corda network.
+Role of Network Map Services:
+
+Describe the specific functions that network map services perform within a Corda network. Emphasize their role in node discovery, identity management, and communication.
+Architecture of Network Map Services:
+
+Explain the architecture of network map services, including the components and data structures involved.
+Discuss how network map services store and manage information about participating nodes.
+Node Registration and Updates:
+
+Detail the process of how nodes register with network map services and keep their information up to date.
+Explain the importance of regularly updating node information in the network map.
+Consensus Mechanisms:
+
+Describe how network map services maintain consensus on the network map among all participants.
+Discuss the mechanisms used to ensure data consistency and reliability.
+Challenges and Solutions:
+
+Identify potential challenges or vulnerabilities associated with network map services and explain how Corda addresses them.
+Case Studies (Optional):
+
+Provide real-world examples or case studies where the use of network map services has played a critical role in Corda networks.
+Discussion and Analysis:
+
+Encourage students to discuss the advantages and potential limitations of network map services in Corda networks.
+Conclusion:
+
+Summarize the key takeaways and the significance of network map services in Corda.
+Submission:
+
+Students should submit a report or presentation that covers the above points and provides a comprehensive understanding of network map services in Corda networks.
+
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanation regarding the role and architecture of network map services.
+Thoroughness in discussing node registration, updates, and consensus mechanisms.
+Insightful analysis of challenges and potential solutions.
+Overall presentation quality and adherence to submission guidelines.

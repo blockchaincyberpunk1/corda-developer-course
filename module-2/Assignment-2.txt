@@ -1,0 +1,44 @@
+Corda Node Types
+
+Objective: Explore the different types of nodes in the Corda network.
+
+Assignment Description:
+
+In this assignment, students will delve into the diverse node types within the Corda network. The objective is to provide students with a comprehensive understanding of the roles and functionalities of various Corda node types, such as Notary nodes, Oracle nodes, and Regular nodes. Students will investigate how these nodes collaborate and contribute to the overall functionality of the Corda network.
+
+Instructions:
+
+Introduction to Corda Node Types:
+
+Provide students with an introduction to the various node types in the Corda network and their significance in the overall Corda architecture.
+Node Types in Corda:
+
+Instruct students to research and gather information about the following Corda node types:
+Notary Nodes: Explain the role of notary nodes in Corda's consensus mechanism and how they validate transactions.
+Oracle Nodes: Describe the function of oracle nodes in fetching and providing external data to smart contracts.
+Regular Nodes: Define regular nodes and their role in the network. Highlight their importance in transaction validation and data sharing.
+Collaboration and Interactions:
+
+Ask students to investigate how these different node types collaborate and interact within the Corda network. Students should consider scenarios where these nodes work together to facilitate transactions or provide services.
+Use Cases and Examples:
+
+Encourage students to provide real-world use cases or examples for each node type. This could include scenarios from industries like finance, supply chain, or healthcare.
+Presentation or Report:
+
+Students can choose to present their findings in a presentation format or compile them into a report. They should use clear explanations and potentially include diagrams to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their research findings and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the report containing their research and explanations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thorough research and descriptions of each Corda node type.
+Clarity in explaining the roles and functionalities of node types.
+Inclusion of real-world use cases or examples.
+Effective presentation that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

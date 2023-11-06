@@ -1,0 +1,49 @@
+Testing Corda Contracts
+
+Objective: Explore testing methodologies for Corda contracts to ensure their accuracy and security.
+
+Assignment Description:
+
+In this assignment, students will focus on testing Corda contracts to verify their functionality and ensure accuracy and security. The objective is to develop a series of test cases to rigorously validate the Corda contract created in Assignment 1. Students will implement both positive and negative test scenarios to test the contract's behavior under various conditions. They will execute the test cases and report the results, highlighting any issues or anomalies found during testing.
+
+Instructions:
+
+Introduction to Corda Contract Testing:
+
+Provide students with an introduction to the importance of testing Corda contracts to ensure their reliability and security. Emphasize the role of testing in identifying potential issues and validating contract behavior.
+Review Corda Contract from Assignment 1:
+
+Remind students to revisit the Corda contract they developed in Assignment 1. They will be creating test cases for this contract.
+Test Case Development:
+
+Instruct students to develop a series of test cases that cover various aspects of the Corda contract's functionality. They should consider both positive and negative test scenarios.
+Positive Test Scenarios:
+
+Students should create positive test scenarios to verify that the contract behaves as expected when transactions meet the contract's validation criteria.
+Negative Test Scenarios:
+
+Encourage students to design negative test scenarios that test the contract's ability to reject transactions that violate its validation rules.
+Test Execution:
+
+Ask students to execute the test cases against the Corda contract. They should provide input data, execute transactions, and observe the outcomes.
+Test Results and Reporting:
+
+Instruct students to report the results of their testing. They should document the outcomes of each test case, highlighting any issues or anomalies encountered during testing.
+Issue Resolution (if applicable):
+
+If any issues or anomalies are identified during testing, students should attempt to resolve them and retest the contract.
+Discussion:
+
+Facilitate a class discussion where students can share their testing experiences and insights. Encourage students to discuss the importance of testing in Corda contract development.
+Submission:
+
+Students should submit their test cases, test execution results, and any issue resolution efforts (if applicable).
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Development of comprehensive test cases that cover various aspects of the Corda contract's functionality.
+Accurate execution of test cases and clear reporting of test results.
+Identification and reporting of any issues or anomalies encountered during testing.
+Effective documentation and organization of testing materials.
+Overall quality of the assignment and adherence to submission guidelines.

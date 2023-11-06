@@ -1,0 +1,38 @@
+Corda Best Practices Research
+
+Objective: Promote the exploration of best practices in Corda development.
+
+Assignment Description:
+
+In this assignment, students will delve into the world of Corda best practices. By researching and compiling a comprehensive list of best practices for Corda application development, deployment, and maintenance, students will gain valuable insights into building efficient and secure Corda solutions. This assignment encourages students to apply these best practices in practical scenarios, promoting excellence in Corda development.
+
+Instructions:
+
+Introduction to Corda Best Practices:
+
+Provide an overview of the importance of adhering to best practices in Corda development.
+Explain that the assignment will focus on researching and compiling Corda best practices.
+Research and Compilation:
+
+Instruct students to research and compile a list of Corda best practices.
+These best practices should cover various aspects of Corda development, including coding, security, deployment, and maintenance.
+Encourage students to explore official Corda documentation, reputable blogs, industry publications, or community forums for sources of best practices.
+Examples and Practical Scenarios:
+
+Require students to provide examples and practical scenarios for each best practice.
+For example, if a best practice is related to secure data sharing, students should explain how this practice can be applied in a Corda-based healthcare data sharing use case.
+Application of Best Practices:
+
+Ask students to select at least three best practices from their compiled list.
+For each chosen best practice, instruct them to describe how it can be applied in a real-world Corda development scenario.
+Encourage them to provide insights into how adherence to these practices contributes to efficient and secure Corda solutions.
+Submission:
+
+Students should submit a document that includes their compiled list of Corda best practices, examples, and practical scenarios.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The accuracy and relevance of the compiled list of Corda best practices.
+The clarity and applicability of the examples and practical scenarios provided.
+The depth of insight into how best practices enhance Corda development.

@@ -1,0 +1,44 @@
+Corda Features and Use Cases
+
+Objective: Develop an understanding of Corda's features and its potential use cases.
+
+Assignment Description:
+
+In this assignment, students will explore the features and capabilities of the Corda blockchain platform and gain insight into its practical applications across various industries. The objective is to develop a comprehensive understanding of what Corda offers and how it is utilized in real-world scenarios. Students will research Corda's key features and provide real-world examples and case studies that highlight its use cases.
+
+Instructions:
+
+Introduction to Corda:
+
+Provide students with an introduction to Corda as a blockchain platform and its significance in the blockchain ecosystem.
+Research Corda's Key Features:
+
+Instruct students to research and compile a list of key features and capabilities of the Corda blockchain platform. They should explore official Corda documentation, whitepapers, and other reputable sources.
+Identify Real-World Use Cases:
+
+Ask students to identify and research real-world use cases of Corda in different industries and applications. They should consider industries like finance, healthcare, supply chain, and more.
+Case Studies and Examples:
+
+Require students to provide case studies and examples that illustrate how Corda is utilized in specific use cases. Each example should include:
+A brief description of the industry or application.
+Details on how Corda's features are leveraged in the use case.
+The benefits or advantages Corda offers in that context.
+Any challenges or unique aspects of the implementation.
+Presentation or Report:
+
+Students can choose to present their findings in a presentation format or compile them into a report. Encourage them to use visuals, diagrams, and real-world examples to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their research findings, examples, and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the report summarizing Corda's features and real-world use cases.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Comprehensive research on Corda's key features and capabilities.
+Well-documented real-world use cases with clear examples and case studies.
+Effective presentation or report that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

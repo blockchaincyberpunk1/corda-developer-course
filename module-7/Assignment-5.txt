@@ -1,0 +1,60 @@
+Corda Enterprise Security
+
+Objective: Focus on security considerations in Corda Enterprise deployments.
+
+Assignment Description:
+
+In this assignment, students will explore the security features and best practices specific to Corda Enterprise deployments. The objective is to understand the unique security considerations when deploying Corda in an enterprise environment, including features like secure network zones and access controls. Students will research and document these security features and propose best practices for deploying Corda Enterprise securely.
+
+Instructions:
+
+Introduction to Corda Enterprise Security:
+
+Provide an introduction to the topic of Corda Enterprise security.
+Explain the importance of security in enterprise blockchain deployments and the specific considerations for Corda Enterprise.
+Secure Network Zones and Access Controls:
+
+Instruct students to research and document the security features of Corda Enterprise related to secure network zones and access controls.
+Explain how these features contribute to the overall security of Corda Enterprise deployments.
+Identity Management:
+
+Discuss the role of identity management in Corda Enterprise security.
+Explain how Corda Enterprise manages and authenticates participant identities.
+Encryption and Data Protection:
+
+Describe the encryption mechanisms used in Corda Enterprise to protect data in transit and at rest.
+Explain the importance of encryption in maintaining data confidentiality.
+Security Best Practices:
+
+Require students to propose a set of security best practices for deploying Corda Enterprise in an enterprise environment.
+Include recommendations for secure node configuration, access controls, and identity management.
+Deployment Scenarios:
+
+Encourage students to consider different deployment scenarios, such as on-premises, cloud-based, or hybrid deployments.
+Explain how security considerations may vary across these scenarios.
+Regulatory Compliance:
+
+Discuss the relevance of regulatory compliance (e.g., GDPR, HIPAA) in Corda Enterprise deployments.
+Explain how Corda Enterprise helps address compliance requirements.
+Case Studies (Optional):
+
+Optionally, students can provide case studies or examples of real-world Corda Enterprise deployments that have implemented security best practices effectively.
+Analyze the success factors and lessons learned from these deployments.
+Documentation and Recommendations:
+
+Instruct students to compile their research findings, security best practices, and recommendations into a comprehensive document.
+Presentation (Optional):
+
+Optionally, students can prepare a presentation summarizing their security research and best practices.
+Presentations can be made to the class to facilitate discussion and peer learning.
+Submission:
+
+Students should submit a report or presentation that outlines Corda Enterprise security features and provides recommendations for secure deployments.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of research on Corda Enterprise security features.
+Clarity and relevance of security best practices and recommendations.
+Thoughtfulness of considerations for different deployment scenarios.
+Overall presentation quality and adherence to submission guidelines.

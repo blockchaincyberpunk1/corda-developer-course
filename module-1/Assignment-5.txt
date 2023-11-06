@@ -1,0 +1,49 @@
+Case Study Analysis
+
+Objective: Analyze a specific enterprise use case that leverages Corda.
+
+Assignment Description:
+
+In this assignment, students will delve into a real-world enterprise use case that leverages Corda blockchain technology. The objective is to provide students with an opportunity to explore how Corda is employed in specific industries and use cases, understanding its benefits, challenges, and potential impact. Students will choose an industry (e.g., finance, healthcare, supply chain) and investigate a Corda-based use case within that industry.
+
+Instructions:
+
+Introduction to Case Study Analysis:
+
+Provide students with an introduction to the purpose and significance of case study analysis in understanding the practical applications of Corda in enterprise settings.
+Choose an Industry and Use Case:
+
+Instruct students to select an industry (e.g., finance, healthcare, supply chain) that interests them.
+Ask students to choose a specific Corda-based use case within the selected industry. Examples include trade finance, medical records sharing, provenance tracking, etc.
+Research the Chosen Use Case:
+
+Guide students to research and gather information about the selected use case. They should explore how Corda is employed in this use case, including its role in the solution.
+Investigate the following aspects:
+Benefits: Describe the advantages and benefits of using Corda in this context.
+Challenges: Identify any challenges or limitations faced when implementing Corda in the use case.
+Potential Impact: Discuss the potential impact of the Corda-based solution on the industry or problem it addresses.
+Case Study Analysis:
+
+Ask students to create a case study analysis report that details their findings. The report should include sections on benefits, challenges, and potential impact.
+Real-World Examples:
+
+Encourage students to include real-world examples or case studies from the chosen use case to illustrate their analysis.
+Presentation:
+
+Students should present their case study analysis in a presentation format. Each presentation should include visuals, diagrams, and clear explanations.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their case study analysis findings and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the case study analysis report.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thorough research and analysis of the chosen Corda-based use case.
+Clear presentation of benefits, challenges, and potential impact.
+Inclusion of real-world examples or case studies.
+Effective presentation that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

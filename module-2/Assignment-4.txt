@@ -1,0 +1,44 @@
+Corda Contracts and Flows
+
+Objective: Delve into Corda contracts and flows.
+
+Assignment Description:
+
+In this assignment, students will explore the concepts of Corda contracts and flows. The objective is to provide students with a comprehensive understanding of the purpose and significance of Corda contracts in verifying the validity of transactions and states, as well as the role of Corda flows in facilitating communication and automation within the network.
+
+Instructions:
+
+Introduction to Corda Contracts and Flows:
+
+Provide students with an introduction to the concepts of Corda contracts and flows, emphasizing their significance in Corda's blockchain architecture.
+Corda Contracts:
+
+Instruct students to describe the purpose and significance of Corda contracts. Explain how Corda contracts are used to verify the validity of transactions and states. Discuss the role of contract code in ensuring that transactions meet predefined rules and conditions.
+Corda Flows:
+
+Ask students to investigate Corda flows and their role in facilitating communication and automation within the Corda network. Explain how flows enable participants to interact with each other, request signatures, and automate transaction processes.
+Smart Contract and Flow Interaction:
+
+Discuss how Corda contracts and flows interact with each other. Explain how flows initiate contract verification and how they use contract logic to ensure the validity of transactions.
+Examples and Use Cases:
+
+Encourage students to provide examples and use cases that illustrate the practical application of Corda contracts and flows. This could include scenarios from industries like finance, supply chain, or healthcare.
+Presentation or Report:
+
+Students can choose to present their findings in a presentation format or compile them into a report. They should use clear explanations and potentially include diagrams to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their research findings and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the report containing their research and explanations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear description of Corda contracts and their significance in transaction verification.
+Thorough exploration of Corda flows and their role in communication and automation.
+Inclusion of real-world examples and use cases.
+Effective presentation that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

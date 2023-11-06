@@ -1,0 +1,43 @@
+Corda Network Parameters
+
+Objective: Gain an understanding of Corda network parameters and their significance.
+
+Assignment Description:
+
+In this assignment, students will delve into the world of Corda network parameters and their crucial role in configuring and governing the behavior of Corda networks. The objective is to help students understand the various network parameters and the impact of adjusting them on Corda nodes' behavior and network performance.
+
+Instructions:
+
+Introduction to Corda Network Parameters:
+
+Provide students with an introductory overview of the concept of Corda network parameters. Explain why they are essential in the configuration and management of Corda networks.
+List of Network Parameters:
+
+Instruct students to research and compile a list of key network parameters that can be configured in a Corda network. Examples include but are not limited to notary selection strategies, transaction confirmation rules, and network map services.
+Parameter Description:
+
+For each network parameter, have students describe its purpose, functionality, and significance in the context of Corda network operations. Include details about the default settings and how they affect the network.
+Impact Analysis:
+
+Encourage students to explore the potential impact of changing specific network parameters. How do alterations to these parameters affect the behavior and performance of Corda nodes? Are there scenarios where customization is beneficial?
+Real-World Examples:
+
+Provide students with real-world examples or case studies where adjustments to Corda network parameters have been made to address specific network requirements or challenges.
+Documentation and Reporting:
+
+Instruct students to document their findings and parameter descriptions comprehensively, including any real-world examples or case studies they have researched.
+Discussion:
+
+Facilitate a class discussion where students can share their insights into the significance of Corda network parameters and discuss scenarios where parameter customization is valuable.
+Submission:
+
+Students should submit their documentation, including parameter descriptions, impact analyses, and any real-world examples or case studies.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Accurate identification and description of relevant Corda network parameters.
+Thorough explanations of the purpose and significance of each parameter.
+Thoughtful analysis of the potential impact of changing specific parameters on Corda nodes' behavior and network performance.
+Inclusion of real-world examples or case studies demonstrating the practical application of Corda network parameter customization.
+Quality of documentation and adherence to submission guidelines.

@@ -1,0 +1,43 @@
+Corda Node Interaction
+
+Objective: Investigate how Corda nodes interact with each other through flows, messages, and data exchange.
+
+Assignment Description:
+
+In this assignment, students will explore how Corda nodes interact with each other in the context of Corda applications. The objective is for students to choose a scenario where two or more Corda nodes need to collaborate and exchange data to achieve a common goal. They will describe the message exchange and data flow between these nodes and use diagrams or flowcharts to visualize the interactions and data exchange process.
+
+Instructions:
+
+Introduction to Corda Node Interaction:
+
+Provide students with an introduction to the concept of Corda node interaction. Emphasize that Corda nodes collaborate to execute various processes on the Corda network.
+Select a Collaboration Scenario:
+
+Instruct students to choose a specific scenario or use case that involves collaboration between two or more Corda nodes. The scenario should be suitable for illustrating message exchange and data flow.
+Node Interaction Description:
+
+Ask students to describe how the chosen Corda nodes interact with each other to achieve a common goal. They should explain the steps involved, the messages exchanged, and the data flow between the nodes.
+Visualize Interactions:
+
+Encourage students to create diagrams, flowcharts, or visual representations that illustrate the interaction process between Corda nodes. These visuals should clearly depict the sequence of actions and data exchange.
+Message Formats and Data Structures:
+
+Have students outline the message formats and data structures used in the communication between Corda nodes. Explain how these messages carry out the intended actions.
+Documentation and Reporting:
+
+Instruct students to document their findings and visual representations in a report format. The report should include explanations, diagrams, and any relevant annotations.
+Discussion:
+
+Facilitate a class discussion where students can share their chosen collaboration scenarios, interaction descriptions, and visual representations. Encourage discussions on the significance of Corda node interactions in real-world applications.
+Submission:
+
+Students should submit their report, which includes their descriptions, visual representations, and explanations of Corda node interactions.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear selection of a collaboration scenario involving Corda nodes.
+Detailed description of how Corda nodes interact, including message exchange and data flow.
+Visual representations (diagrams or flowcharts) that effectively illustrate the interaction process.
+Clarity and accuracy of documentation and reporting.
+Overall quality of the assignment and adherence to submission guidelines.

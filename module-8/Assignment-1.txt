@@ -1,0 +1,54 @@
+Corda Community Contribution
+
+Objective: Encourage active participation in the Corda developer community.
+
+Assignment Description:
+
+In this assignment, students will actively engage with the Corda developer community by contributing to an open-source project or initiative within the Corda ecosystem. The objective is to foster collaboration, improve Corda-related resources, and gain real-world experience in contributing to open-source projects. Students will select a project that aligns with their interests or expertise, contribute meaningfully, and share their experience with their peers.
+
+Instructions:
+
+Introduction to Corda Community Contribution:
+
+Begin with an introduction to the importance of community contributions in open-source development.
+Explain the significance of active participation in the Corda developer community.
+Selecting a Corda Project:
+
+Instruct students to research and identify an open-source project or initiative within the Corda ecosystem.
+Projects may include Corda open-source repositories on GitHub, Corda documentation, developer forums, or Corda-related initiatives.
+Contribution Plan:
+
+Guide students to formulate a contribution plan that outlines what they intend to contribute to the selected project.
+Encourage students to consider their skills, interests, and the project's specific needs.
+Active Contribution:
+
+Students should actively contribute to the selected Corda project based on their contribution plan.
+Contributions can include code enhancements, documentation updates, bug fixes, or participation in discussions and issue tracking.
+Challenges and Lessons Learned:
+
+Require students to document any challenges they encountered during their contribution journey.
+Ask them to reflect on the lessons learned and how they addressed obstacles.
+Contribution Impact:
+
+Encourage students to analyze the impact of their contributions on the Corda project.
+Discuss how their contributions have improved the project's functionality, documentation, or community engagement.
+Sharing Experience:
+
+Instruct students to share their contribution experience with their fellow classmates.
+They can write a report, create a presentation, or participate in a class discussion.
+Feedback and Reflection:
+
+Encourage students to provide feedback on the Corda community contribution process.
+Reflect on the value of open-source participation in their personal and professional development.
+Submission:
+
+Students should submit a report, presentation, or share their experience with the class based on the selected format.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The significance and impact of the contribution made to the Corda project.
+Reflection on challenges faced and lessons learned during the contribution process.
+Clarity and depth of the contribution impact analysis.
+The quality of the report, presentation, or class participation in sharing the experience.
+Reflection on the value of community contributions to personal and professional growth.

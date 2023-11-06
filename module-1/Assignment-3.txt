@@ -1,0 +1,48 @@
+Corda Architecture
+
+Objective: Gain insights into the architecture of the Corda platform.
+
+Assignment Description:
+
+In this assignment, students will explore the architecture of the Corda blockchain platform. The objective is to provide students with an in-depth understanding of the components and layers that constitute the Corda architecture, including nodes, notaries, and oracles. Students will create an architectural diagram that visually represents the interactions between these components, helping them grasp the overall structure of Corda.
+
+Instructions:
+
+Introduction to Corda Architecture:
+
+Provide students with an introduction to the architecture of the Corda blockchain platform and its significance in Corda's design.
+Components of Corda Architecture:
+
+Instruct students to study the key components and layers of the Corda architecture, including:
+Nodes: Different types of nodes (e.g., Full nodes, Notary nodes) and their roles.
+Notaries: Explain the role of notaries in Corda's consensus mechanism.
+Oracles: Discuss the use of oracles for fetching external data.
+Corda Network: Briefly introduce the Corda network and its purpose.
+Create an Architectural Diagram:
+
+Ask students to create an architectural diagram that illustrates the interactions between these components. The diagram should include labeled nodes, notaries, oracles, and any relevant connections or data flows.
+Explain Component Interactions:
+
+Instruct students to provide explanatory notes or descriptions alongside the architectural diagram, explaining how these components interact with each other within the Corda platform.
+Real-World Scenarios:
+
+Encourage students to consider real-world scenarios or use cases where the Corda architecture would be applicable. They should briefly describe how the architecture supports these scenarios.
+Presentation or Report:
+
+Students can choose to present their architectural diagram in a presentation format or compile it into a report. They should use clear visuals and explanations to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their architectural diagrams and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the report containing their architectural diagram and explanations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of the architectural diagram.
+Quality of explanations regarding component interactions.
+Consideration of real-world scenarios and applications.
+Effective presentation or report that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

@@ -1,0 +1,46 @@
+Contract Upgrades in Corda
+
+Objective: Investigate contract upgrades and their implementation in Corda.
+
+Assignment Description:
+
+In this assignment, students will delve into the concept of contract upgrades in Corda and explore the need for upgrades and the process involved. The objective is for students to understand how to manage contract upgrades while ensuring backward compatibility. Students will research and describe contract upgrades in Corda and then develop a Corda contract upgrade plan for the contract designed in Assignment 1.
+
+Instructions:
+
+Introduction to Contract Upgrades:
+
+Provide students with an introduction to the concept of contract upgrades in Corda. Explain why contract upgrades may be necessary and the implications of making changes to a deployed contract.
+Research and Documentation:
+
+Instruct students to research and document the following:
+The need for contract upgrades: Why might it be necessary to upgrade a Corda contract?
+The process of conducting a contract upgrade in Corda.
+Considerations for ensuring backward compatibility when upgrading a contract.
+Corda Contract Upgrade Plan:
+
+Ask students to develop a Corda contract upgrade plan for the contract they designed in Assignment 1. This plan should outline how the contract can be upgraded while minimizing disruptions to existing transactions and data.
+Considerations for Backward Compatibility:
+
+Emphasize the importance of ensuring that existing transactions remain valid after the contract upgrade. Instruct students to include considerations for backward compatibility in their upgrade plan.
+Testing the Contract Upgrade Plan:
+
+Encourage students to simulate the contract upgrade process as part of their assignment. They should document the steps involved in upgrading the contract and verify that existing transactions remain valid.
+Documentation and Reporting:
+
+Ask students to provide clear documentation of their Corda contract upgrade plan and the steps taken to test it. They should also report any challenges or insights gained during the process.
+Discussion:
+
+Facilitate a class discussion where students can share their contract upgrade plans and discuss the importance of maintaining compatibility when upgrading contracts.
+Submission:
+
+Students should submit their Corda contract upgrade plan, documentation of the testing process, and a report on their findings.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear and well-documented Corda contract upgrade plan.
+Considerations for ensuring backward compatibility in the upgrade plan.
+Effective testing of the upgrade plan and documentation of test results.
+Insightful reporting of challenges or insights gained during the upgrade process.
+Overall quality of the assignment and adherence to submission guidelines.

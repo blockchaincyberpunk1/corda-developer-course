@@ -1,0 +1,45 @@
+Corda Network Setup
+
+Objective: Explore the process of setting up a Corda network.
+
+Assignment Description:
+
+In this assignment, students will gain hands-on experience in setting up a Corda network. The objective is to familiarize students with the steps and considerations involved in configuring a Corda network for different deployment scenarios, such as a local development network, consortium network, or a public Corda network.
+
+Instructions:
+
+Choose a Deployment Scenario:
+
+Instruct students to choose one of the following deployment scenarios for their Corda network setup:
+Local development network (for learning and testing).
+Consortium network (for a group of trusted participants).
+Public Corda network (e.g., Corda Network, for broader access).
+Setup Documentation:
+
+Have students document the step-by-step process of setting up a Corda network for their chosen scenario. Include details on hardware and software requirements.
+Configuration and Network Parameters:
+
+Provide instructions on configuring network parameters, such as notary selection strategies, network map services, and transaction confirmation rules. Explain how these configurations align with the chosen deployment scenario.
+Node Registration:
+
+Describe the process of registering Corda nodes on the network. Explain the roles of different types of nodes (e.g., Notary nodes, Regular nodes) and how they are registered.
+Security Measures:
+
+Highlight security measures that should be implemented during network setup to ensure the privacy and integrity of data and transactions.
+Testing and Validation:
+
+Instruct students to perform testing and validation steps to ensure that the network is functioning correctly according to the chosen scenario. Include instructions for creating and testing transactions.
+Documentation and Reporting:
+
+Students should create detailed documentation of their Corda network setup, including configuration files, node registration records, and any relevant scripts used.
+Submission:
+
+Students should submit their documentation and a report summarizing the network setup process and any challenges encountered.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Accurate and comprehensive documentation of the Corda network setup process.
+Clear instructions for configuring network parameters, registering nodes, and implementing security measures.
+Effective testing and validation of the network to ensure functionality.
+Quality of documentation and adherence to submission guidelines.

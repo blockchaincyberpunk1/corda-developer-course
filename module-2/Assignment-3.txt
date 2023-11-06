@@ -1,0 +1,44 @@
+ Corda Transactions and States
+
+Objective: Gain a deeper understanding of Corda transactions and states.
+
+Assignment Description:
+
+In this assignment, students will delve into the concepts of Corda transactions and states. The objective is to provide students with a comprehensive understanding of how Corda transactions differ from traditional blockchain transactions and the role of states in Corda, especially in representing digital assets and contract data.
+
+Instructions:
+
+Introduction to Corda Transactions and States:
+
+Provide students with an introduction to the concepts of Corda transactions and states, emphasizing their significance in Corda's blockchain architecture.
+Corda Transactions vs. Traditional Blockchain Transactions:
+
+Instruct students to explain the concept of Corda transactions and how they differ from traditional blockchain transactions. They should consider aspects such as privacy, confidentiality, and the uniqueness of Corda transactions.
+Role of States in Corda:
+
+Ask students to explore the role of states in Corda. Explain how states represent digital assets, contract data, and information related to transactions.
+State Evolution:
+
+Discuss the concept of state evolution in Corda. Explain how states can change over time and the implications of state updates.
+Examples and Use Cases:
+
+Encourage students to provide examples and use cases that illustrate the practical application of Corda transactions and states. This could include scenarios from industries like finance, supply chain, or healthcare.
+Presentation or Report:
+
+Students can choose to present their findings in a presentation format or compile them into a report. They should use clear explanations and potentially include diagrams to enhance their presentation/report.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their research findings and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the report containing their research and explanations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity in explaining Corda transactions and their differences from traditional blockchain transactions.
+Thorough exploration of the role of states in Corda, especially in representing digital assets and contract data.
+Inclusion of real-world examples and use cases.
+Effective presentation that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

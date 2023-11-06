@@ -1,0 +1,46 @@
+Flow Optimization
+
+Objective: Explore optimization techniques for Corda flows.
+
+Assignment Description:
+
+In this assignment, students will focus on optimizing the Corda flow they developed in Assignment 1. The objective is for students to review their existing Corda flow and identify potential areas for optimization, such as reducing latency, improving efficiency, or enhancing security. They will implement optimization strategies and document the changes made to the flow. Additionally, students will provide before-and-after performance measurements to demonstrate the impact of the optimizations.
+
+Instructions:
+
+Introduction to Flow Optimization:
+
+Provide students with an introduction to the importance of optimizing Corda flows and how it can improve the overall performance and efficiency of Corda applications.
+Review the Corda Flow:
+
+Remind students of the Corda flow they designed in Assignment 1, specifying the business process it models and the interactions involved.
+Identify Areas for Optimization:
+
+Instruct students to thoroughly review their Corda flow and identify potential areas for optimization. These may include reducing latency, improving resource utilization, enhancing security, or streamlining the flow's logic.
+Optimization Implementation:
+
+Encourage students to implement optimization strategies within the Corda flow. These strategies should address the identified areas for improvement. Students should document the changes made and the rationale behind each optimization.
+Performance Measurements:
+
+Have students measure the performance of the original unoptimized flow and the optimized flow. Metrics to consider may include execution time, resource usage (e.g., CPU, memory), and any relevant KPIs specific to the business process.
+Comparison and Analysis:
+
+Ask students to compare the performance measurements of the original and optimized flows. They should analyze the impact of the optimizations and provide insights into how the flow's efficiency has improved.
+Documentation and Reporting:
+
+Instruct students to document the optimization process, including the changes made, performance measurements, and the analysis of results.
+Discussion:
+
+Facilitate a class discussion where students can share their optimization strategies, results, and insights gained from the process.
+Submission:
+
+Students should submit their documentation, including optimization details, performance measurements, and the comparison and analysis of results.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Identification of relevant areas for optimization in the Corda flow.
+Effective implementation of optimization strategies with clear documentation.
+Comprehensive and meaningful performance measurements.
+Thorough comparison and analysis of performance before and after optimization.
+Quality of documentation and adherence to submission guidelines.

@@ -1,0 +1,49 @@
+ Installation and Setup for Corda Development
+
+Objective: Help students set up their development environment for Corda.
+
+Assignment Description:
+
+In this assignment, students will go through the process of installing and setting up their development environment for Corda. The objective is to ensure that students have the necessary tools and components for Corda development, including Corda Open Source or Corda Enterprise, the Java Development Kit (JDK), the Corda development kit, and any other required dependencies. Students should document the installation process step by step, including any common challenges they encounter and the solutions they implement.
+
+Instructions:
+
+Introduction to Corda Development Setup:
+
+Provide students with an introduction to the importance of a well-configured development environment for Corda development. Explain the components and tools they will be installing.
+Tools and Components to Install:
+
+Instruct students on the list of tools and components they need to install, including:
+Corda Open Source or Corda Enterprise
+Java Development Kit (JDK)
+Corda development kit
+Any additional dependencies or libraries relevant to their specific development needs
+Step-by-Step Installation Guide:
+
+Ask students to create a step-by-step installation guide that covers each tool and component. Include detailed instructions, screenshots, and explanations for each installation step.
+Common Challenges and Solutions:
+
+Encourage students to research and document common challenges or issues they encounter during installation and provide solutions or workarounds. This could include resolving compatibility problems, configuring settings, or troubleshooting installation errors.
+Testing and Verification:
+
+Instruct students to verify that their development environment is correctly set up by running a basic Corda application or example. They should document this verification process.
+Presentation or Report:
+
+Students can choose to present their installation guides in a presentation format or compile them into a report. Ensure that they include clear explanations and visuals to aid understanding.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their installation experiences, challenges faced, and solutions implemented. Encourage peer-to-peer support.
+Submission:
+
+Students should submit their installation guides or reports, along with any verification results.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completion of installation and setup for all required tools and components.
+Clarity and completeness of the step-by-step installation guide.
+Documentation of common challenges and effective solutions.
+Successful verification of the development environment.
+Effective presentation or report that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

@@ -1,0 +1,52 @@
+Developing a Corda Application
+
+Objective: Allow students to gain hands-on experience in developing Corda applications.
+
+Assignment Description:
+
+In this assignment, students will have the opportunity to gain practical experience in developing Corda applications. The objective is for students to design and create a Corda application that addresses a simple use case. This exercise will involve developing and testing the Corda application, including writing contracts, defining states, and implementing flows. Students are required to share the code and documentation of the developed application, highlighting key features and functionalities.
+
+Instructions:
+
+Introduction to Corda Application Development:
+
+Provide students with an introduction to Corda application development and its significance in real-world scenarios. Explain that they will be developing a Corda application for a specific use case.
+Select a Use Case:
+
+Instruct students to select a simple use case for their Corda application. Examples include token issuance, a trade scenario, or a basic supply chain process. The use case should be manageable within the scope of the assignment.
+Design the Corda Application:
+
+Ask students to design their Corda application, including defining the states, writing the smart contract, and outlining the flows that will be implemented.
+Development and Testing:
+
+Guide students through the process of developing the Corda application. They should write the necessary Corda contracts, create state representations, and implement flows. Encourage them to thoroughly test their application to ensure functionality and security.
+Documentation:
+
+Instruct students to create documentation for their Corda application. This documentation should include:
+Explanation of the use case and problem it solves
+Overview of the application's architecture
+Code explanations and comments
+Test cases and results
+Any challenges faced during development and how they were resolved
+Code Submission and Presentation:
+
+Students should submit their Corda application code along with the documentation. They can choose to present their application to the class, highlighting key features and demonstrating its functionality.
+Peer Review and Feedback:
+
+Encourage peer review within the class, where students can provide feedback on each other's Corda applications. This fosters collaboration and learning.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their experiences in developing Corda applications and any insights gained from their projects.
+Submission:
+
+Students should submit their Corda application code and documentation.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of a Corda application for the selected use case.
+Thorough testing to ensure the functionality and security of the application.
+High-quality documentation that effectively explains the application's purpose, architecture, and code.
+Effective presentation (if applicable) that communicates key features and functionalities.
+Active participation in the peer review process and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

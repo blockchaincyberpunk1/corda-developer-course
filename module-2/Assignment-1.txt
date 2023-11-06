@@ -1,0 +1,51 @@
+Corda Architecture Diagram
+
+Objective: Create a detailed architectural diagram of the Corda platform.
+
+Assignment Description:
+
+In this assignment, students will dive into the architecture of the Corda blockchain platform by creating a detailed architectural diagram. The objective is to provide students with a visual representation of the core components of Corda, including nodes, transactions, states, contracts, notaries, and oracles. Students will label and describe the interactions and data flows between these components and include annotations to explain the role of each component in the Corda architecture.
+
+Instructions:
+
+Introduction to Corda Architecture:
+
+Provide students with an introduction to the architecture of the Corda blockchain platform and its significance in Corda's design.
+Components of Corda Architecture:
+
+Instruct students to study the key components of the Corda architecture, including:
+Nodes: Different types of nodes (e.g., Full nodes, Notary nodes) and their roles.
+Transactions: The process of creating and validating transactions in Corda.
+States: Explain what states are and their significance in Corda.
+Contracts: Describe the role of contracts in Corda and how they enforce business logic.
+Notaries: Explain the role of notaries in Corda's consensus mechanism.
+Oracles: Discuss the use of oracles for fetching external data.
+Create an Architectural Diagram:
+
+Provide students with tools or software for creating architectural diagrams, such as draw.io, Lucidchart, or others.
+Ask students to create a detailed architectural diagram that visually represents the interactions and data flows between these Corda components. The diagram should include labeled nodes, transactions, states, contracts, notaries, and oracles.
+Annotations and Explanations:
+
+Instruct students to include annotations and explanations within the architectural diagram to clarify the role and interactions of each component. Annotations should provide concise descriptions.
+Real-World Examples:
+
+Encourage students to consider real-world scenarios or use cases where the Corda architecture would be applicable. They should include these scenarios in their architectural diagram.
+Presentation:
+
+Students should present their architectural diagram in a presentation format, either as slides or in a document. Each presentation should include visuals and clear explanations.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their architectural diagrams and insights. Encourage questions and discussions to deepen understanding.
+Submission:
+
+Students should submit their presentation slides or the document containing the architectural diagram and explanations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the architectural diagram.
+Quality of annotations and explanations regarding component interactions.
+Inclusion of real-world examples or use cases.
+Effective presentation that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

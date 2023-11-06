@@ -1,0 +1,57 @@
+Integration with External Systems
+
+Objective: Study the integration capabilities of Corda with external systems and databases.
+
+Assignment Description:
+
+In this assignment, students will explore how Corda can seamlessly integrate with external systems and databases, which is a critical aspect of Corda's versatility for real-world use cases. The objective is to understand the methods and tools available in Corda for integrating with external systems, enabling the exchange of data and business logic across different platforms. Students will focus on a specific use case and learn how Corda APIs, such as the RPC interface and Corda Services, can be employed for efficient integration.
+
+Instructions:
+
+Introduction to Corda Integration:
+
+Provide an introduction to the topic of integrating Corda with external systems and databases.
+Explain the importance of such integration in real-world Corda applications.
+Select a Use Case:
+
+Instruct students to choose a real-world use case where Corda needs to interact with external systems or databases. Examples include supply chain management, financial services, or identity verification.
+Emphasize the importance of selecting a use case that requires data exchange or business logic integration beyond the Corda network.
+Research Corda Integration Tools:
+
+Encourage students to research and gather information on Corda's integration capabilities.
+Specifically, focus on Corda APIs and tools that facilitate integration, such as the Corda RPC interface and Corda Services.
+Integration Plan:
+
+Instruct students to create an integration plan for their chosen use case. This plan should outline how Corda will interact with external systems or databases to fulfill the use case's requirements.
+Include details on the types of data to be exchanged and the frequency of interaction.
+Corda RPC Interface:
+
+Explain the Corda RPC interface and its role in enabling communication between Corda nodes and external systems.
+Provide guidelines on how to set up and utilize the Corda RPC interface for integration.
+Corda Services:
+
+Describe the concept of Corda Services and their use in integrating Corda with external systems.
+Provide examples of Corda Services that can be customized to meet integration needs.
+Implementation and Testing:
+
+Encourage students to implement the integration plan using Corda APIs.
+Document the integration process, including code snippets and configuration details.
+Include testing procedures to ensure the integration functions as expected.
+Challenges and Solutions:
+
+Ask students to identify potential challenges they encountered during the integration process and provide solutions or workarounds.
+Use Case Presentation (Optional):
+
+Optionally, students can prepare a presentation or report detailing their chosen use case, the integration plan, and the implemented solution.
+Presentations can be made to the class to encourage discussion and knowledge sharing.
+Submission:
+
+Students should submit a report, presentation, or documentation of their integration project.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Effectiveness of the integration plan for the chosen use case.
+Clarity and accuracy of implementation using Corda APIs.
+Thoroughness of testing procedures and problem-solving in case of challenges.
+Overall presentation quality and adherence to submission guidelines.

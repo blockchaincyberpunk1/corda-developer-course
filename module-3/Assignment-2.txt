@@ -1,0 +1,48 @@
+Corda Network Deployment
+
+Objective: Explore Corda's network deployment options.
+
+Assignment Description:
+
+In this assignment, students will delve into the deployment choices available for Corda networks. The objective is to help students understand the various deployment options, including setting up a local development network, joining an existing network, or creating a new network. Students should describe the advantages and use cases for each deployment option to gain insights into when and why each option is chosen in Corda development.
+
+Instructions:
+
+Introduction to Corda Network Deployment:
+
+Provide students with an introduction to the importance of network deployment in Corda development. Explain that the choice of deployment can significantly impact the development and operation of Corda applications.
+Types of Corda Network Deployment:
+
+Instruct students to research and describe the different types of Corda network deployments, including:
+Setting up a local development network
+Joining an existing Corda network
+Creating a new Corda network
+Advantages of Each Deployment Option:
+
+Ask students to identify and explain the advantages of each deployment option. For example, what are the benefits of setting up a local development network for testing and debugging? When is joining an existing network a more practical choice, and what are the advantages of creating a new network?
+Use Cases and Scenarios:
+
+Encourage students to provide real-world use cases and scenarios where each deployment option is suitable. For instance, they can discuss how setting up a local network is beneficial during the development phase, or when joining an existing network makes sense for cross-industry collaboration.
+Comparative Analysis:
+
+Instruct students to create a comparative analysis chart or presentation that highlights the differences and similarities between the deployment options. This can help visualize the decision-making process.
+Presentation or Report:
+
+Students can choose to present their findings in a presentation format or compile them into a report. Ensure that they include clear explanations and, if applicable, visuals for the comparative analysis.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their research findings and insights. Encourage peer-to-peer discussions on deployment choices.
+Submission:
+
+Students should submit their presentation slides or the report containing their research and analysis.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Comprehensive description of Corda network deployment options.
+Clear explanation of the advantages of each deployment option.
+Well-documented use cases and scenarios.
+Effective comparative analysis of deployment choices.
+Successful presentation or report that communicates findings clearly.
+Active participation in the class discussion and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

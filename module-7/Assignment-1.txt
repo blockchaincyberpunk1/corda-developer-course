@@ -1,0 +1,52 @@
+Corda Enterprise Advantages
+
+Objective: Explore the additional features and capabilities offered by Corda Enterprise for enterprise-grade solutions.
+
+Assignment Description:
+
+In this assignment, students will delve into the enhanced capabilities of Corda Enterprise compared to the open-source Corda platform. Corda Enterprise provides several additional features designed to meet the demands of enterprise-level blockchain solutions. This assignment encourages students to understand and articulate the advantages and use cases of these enterprise-specific features.
+
+Instructions:
+
+Introduction to Corda Enterprise:
+
+Provide an introduction to Corda Enterprise and its significance in the enterprise blockchain landscape.
+Explain the objectives of the assignment, which is to explore and understand the unique features of Corda Enterprise.
+Research Corda Enterprise Features:
+
+Instruct students to research and compile a list of key features and capabilities that differentiate Corda Enterprise from the open-source Corda platform.
+Encourage students to access official documentation, whitepapers, and other relevant resources for accurate information.
+Advantages of Corda Firewall:
+
+Explain the Corda Firewall feature and its purpose in Corda Enterprise.
+Discuss scenarios and use cases where Corda Firewall enhances security and compliance for enterprise blockchain networks.
+High Availability in Corda Enterprise:
+
+Describe the High Availability feature and how it ensures uninterrupted operation of Corda nodes.
+Provide examples of situations where High Availability is crucial for maintaining business continuity.
+Corda Network Manager Benefits:
+
+Explore the Corda Network Manager and its role in network governance and administration.
+Illustrate how Corda Network Manager simplifies the management of complex Corda networks.
+Use Cases and Practical Scenarios:
+
+Instruct students to provide real-world use cases or scenarios where the advantages of Corda Enterprise features become apparent.
+Encourage students to explain why Corda Enterprise would be the preferred choice for these scenarios.
+Comparison with Open-Source Corda:
+
+Facilitate a comparison between Corda Enterprise and the open-source Corda platform.
+Highlight the limitations of the open-source version in contexts where enterprise features are essential.
+Presentation or Report Creation:
+
+Ask students to present their findings and explanations in the form of a report or presentation.
+Submission:
+
+Students should submit their completed reports or presentations.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the list of Corda Enterprise features.
+Clarity in explaining the advantages and use cases of Corda Enterprise features.
+Quality of real-world scenarios provided to illustrate the practical benefits.
+Overall presentation quality and adherence to submission guidelines.

@@ -1,0 +1,37 @@
+Corda Learning Resources Review
+
+Objective: Encourage students to explore and share valuable Corda learning resources.
+
+Assignment Description:
+
+In this assignment, students will have the opportunity to review and evaluate Corda-related learning resources. By researching and summarizing a recently published resource, students can deepen their understanding of Corda and share their findings with their peers. This assignment fosters a culture of continuous learning and knowledge sharing within the Corda developer community.
+
+Instructions:
+
+Introduction to Corda Learning Resources Review:
+
+Explain the importance of staying updated with the latest Corda developments and insights.
+Introduce the assignment's objective: to review and summarize a Corda-related learning resource.
+Research and Selection:
+
+Instruct students to research and select one Corda-related learning resource.
+The resource can be a whitepaper, blog post, tutorial, documentation update, or any other educational material related to Corda.
+Emphasize that the resource should be recently published (preferably within the last six months).
+Resource Review:
+
+Ask students to review the selected resource and provide a summary of its key insights, takeaways, or findings.
+Encourage them to highlight any information that they find particularly relevant, interesting, or useful for Corda developers.
+Relevance and Usefulness:
+
+Instruct students to explain the relevance of the reviewed resource to Corda developers and use cases.
+Ask them to discuss how the information presented in the resource can benefit Corda projects or development efforts.
+Submission:
+
+Students should submit a document that includes their review of the selected Corda learning resource.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+The quality of the resource review, including the clarity of key insights and takeaways.
+The ability to assess the relevance and usefulness of the resource for Corda developers.
+The student's ability to present a well-structured and concise summary of the resource.

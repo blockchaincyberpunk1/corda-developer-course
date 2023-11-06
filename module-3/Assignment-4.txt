@@ -1,0 +1,52 @@
+Testing Corda Applications
+
+Objective: Introduce students to testing Corda applications for reliability and correctness.
+
+Assignment Description:
+
+In this assignment, students will focus on testing Corda applications to ensure their reliability and correctness. The objective is for students to gain practical experience in implementing unit tests for the Corda application they developed in the previous assignment. These unit tests should cover critical components such as contracts, flows, and state transitions. Additionally, students are required to describe the testing process, including the tools or frameworks used for testing Corda applications.
+
+Instructions:
+
+Introduction to Corda Application Testing:
+
+Provide students with an introduction to the importance of testing Corda applications and its role in ensuring the reliability and correctness of blockchain solutions.
+Review Corda Application from Previous Assignment:
+
+Remind students to revisit the Corda application they developed in the previous assignment. They will be implementing unit tests for this application.
+Unit Testing Components:
+
+Explain the components of the Corda application that should be covered by unit tests. This should include, but is not limited to:
+Corda contracts
+Corda flows
+State transitions
+Implement Unit Tests:
+
+Guide students through the process of implementing unit tests for their Corda application. They should write tests that validate the behavior and correctness of their application's critical components.
+Testing Documentation:
+
+Instruct students to create documentation for their testing process. This should include:
+Explanation of the purpose of each unit test
+Code samples of unit tests
+Test results and expected outcomes
+Testing Tools or Frameworks:
+
+Encourage students to describe the testing tools or frameworks they used for testing Corda applications. They should explain why they chose these tools and how they were helpful in the testing process.
+Peer Review and Feedback:
+
+Facilitate a peer review process within the class, where students can review and provide feedback on each other's unit tests. This helps students learn from one another and improve their testing skills.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their experiences in testing Corda applications and discuss the challenges they encountered.
+Submission:
+
+Students should submit their unit tests and testing documentation.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of unit tests that cover critical components of the Corda application.
+Clear and well-documented unit tests that explain their purpose and expected outcomes.
+Effective documentation of the testing process, including explanations of testing tools or frameworks used.
+Active participation in the peer review process and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

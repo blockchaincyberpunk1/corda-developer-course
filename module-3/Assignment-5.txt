@@ -1,0 +1,47 @@
+Troubleshooting and Debugging in Corda Development
+
+Objective: Familiarize students with troubleshooting and debugging techniques in Corda development.
+
+Assignment Description:
+
+In this assignment, students will focus on troubleshooting and debugging techniques in Corda development. The objective is to help students gain practical experience in diagnosing and resolving common issues or errors that developers may encounter during Corda application development. Students will simulate these issues and demonstrate how to use debugging tools and techniques to identify and resolve them. The assignment should also provide a summary of the debugging process, highlighting best practices.
+
+Instructions:
+
+Introduction to Troubleshooting and Debugging in Corda:
+
+Provide students with an introduction to the importance of troubleshooting and debugging in Corda development. Explain that these skills are essential for identifying and resolving issues that can arise during application development.
+Simulate Common Issues:
+
+Instruct students to simulate common issues or errors that developers may encounter in Corda application development. Examples of issues include contract validation errors, flow failures, or state inconsistencies.
+Diagnose and Resolve Issues:
+
+Guide students through the process of diagnosing and resolving the simulated issues. They should demonstrate how to use debugging tools and techniques, such as logging, to identify the root causes of the problems.
+Debugging Documentation:
+
+Ask students to create documentation for the debugging process. This should include:
+Detailed descriptions of the simulated issues
+Steps taken to diagnose the issues
+Debugging tools or techniques used
+Solutions and resolutions
+Summary of Debugging Best Practices:
+
+Encourage students to provide a summary of debugging best practices in Corda development. This should include guidelines on how to approach troubleshooting and debugging effectively.
+Peer Review and Feedback:
+
+Facilitate a peer review process within the class, where students can review and provide feedback on each other's debugging processes. This promotes collaboration and learning from peers.
+Discussion:
+
+After completing their assignment, facilitate a class discussion where students can share their experiences in troubleshooting and debugging Corda applications and discuss the strategies they employed.
+Submission:
+
+Students should submit their debugging documentation, including descriptions of simulated issues and their resolutions.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful simulation and resolution of common issues in Corda development.
+Clear and well-documented debugging processes that explain the steps taken to diagnose and resolve issues.
+Effective summary of debugging best practices in Corda development.
+Active participation in the peer review process and engagement with peers.
+Overall quality of the assignment and adherence to submission guidelines.

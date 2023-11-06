@@ -1,0 +1,46 @@
+Flow Testing and Error Handling
+
+Objective: Focus on testing Corda flows and handling errors.
+
+Assignment Description:
+
+In this assignment, students will concentrate on testing Corda flows and implementing error handling mechanisms. The objective is for students to develop a series of test cases to validate the functionality of the Corda flow they designed in Assignment 1. They should include test scenarios that simulate both successful flow executions and error conditions. Additionally, students will implement error handling within the flow to gracefully handle exceptions or unexpected situations.
+
+Instructions:
+
+Introduction to Flow Testing and Error Handling:
+
+Provide students with an introduction to the importance of testing Corda flows and the significance of error handling in ensuring the reliability of Corda applications.
+Review the Corda Flow:
+
+Remind students of the Corda flow they designed in Assignment 1, specifying the business process it models and the interactions involved.
+Develop Test Cases:
+
+Instruct students to create a series of test cases to thoroughly test the functionality of their Corda flow. These test cases should cover both successful execution paths and error conditions.
+Error Handling Implementation:
+
+Encourage students to implement error handling mechanisms within the Corda flow. These mechanisms should gracefully handle exceptions or unexpected situations and ensure that the flow does not fail catastrophically.
+Execute Test Cases:
+
+Have students execute their test cases on the Corda flow, capturing the results and any issues encountered during testing.
+Documentation and Reporting:
+
+Ask students to document their test cases, including inputs, expected outcomes, and actual results. They should also describe how error handling is implemented within the flow.
+Error Resolution:
+
+If any errors or issues arise during testing, instruct students to provide resolutions or improvements to address these problems.
+Discussion:
+
+Facilitate a class discussion where students can share their test cases, testing experiences, and any insights gained regarding error handling in Corda flows.
+Submission:
+
+Students should submit their documentation, including test cases, results, error handling implementation details, and any error resolutions.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Comprehensive set of test cases that cover both success scenarios and error conditions.
+Effective implementation of error handling mechanisms within the Corda flow.
+Clear documentation of test cases, results, and error handling approaches.
+Quality of error resolutions or improvements (if applicable).
+Overall quality of the assignment and adherence to submission guidelines.
